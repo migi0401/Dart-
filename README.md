@@ -1,4 +1,17 @@
-# Dart
-Flutter 개발 전 Dart 기본 언어 학습을 기록하는 공간입니다.
+# Dart & Flutter
 
-## Dart 소개
+프론트엔드 Flutter & Dart언어 학습을 기록한 공간입니다.
+
+***
+
+# 기술 스택
+Dart / Flutter
+
+***
+
+#실행
+
+***
+
+# 실행 결과
+
